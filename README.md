@@ -3,3 +3,8 @@ This repo consists of:
 1) The sample training data that can be used to train
 2) Model inference and predictions on any video containing pushups or squats
                     
+                    
+                    
+                    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sureshgorakala/WorkoutPoseClassifier_POC/main)
+
