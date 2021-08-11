@@ -6,5 +6,5 @@ This repo consists of:
                     
                     
                     
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sureshgorakala/WorkoutPoseClassifier_POC/main)
+
 
